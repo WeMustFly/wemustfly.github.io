@@ -1,9 +1,21 @@
 {
-  "main.css": "static/css/main.e6222afe.css",
-  "main.css.map": "static/css/main.e6222afe.css.map",
-  "main.js": "static/js/main.981ba1c0.js",
-  "main.js.map": "static/js/main.981ba1c0.js.map",
+  "main.css": "static/css/main.cc339767.css",
+  "main.css.map": "static/css/main.cc339767.css.map",
+  "main.js": "static/js/main.27de4edf.js",
+  "main.js.map": "static/js/main.27de4edf.js.map",
+  "static/media/Armchair.png": "static/media/Armchair.c1733cd9.png",
+  "static/media/Cake.png": "static/media/Cake.5f472bd5.png",
+  "static/media/Cartoon.png": "static/media/Cartoon.9f72d764.png",
+  "static/media/Cats.png": "static/media/Cats.6eab09e9.png",
+  "static/media/Crown.png": "static/media/Crown.c09bd660.png",
+  "static/media/Fire.png": "static/media/Fire.67f36ba2.png",
+  "static/media/Hands.png": "static/media/Hands.636e4e8d.png",
   "static/media/Head.png": "static/media/Head.2f72ffdf.png",
+  "static/media/Paws1.png": "static/media/Paws1.71952fdc.png",
+  "static/media/Paws2.png": "static/media/Paws2.99fd5d33.png",
   "static/media/Princess.png": "static/media/Princess.0c77d5dd.png",
-  "static/media/Scene.png": "static/media/Scene.35210be5.png"
+  "static/media/Scene.png": "static/media/Scene.6c769033.png",
+  "static/media/Shoes.png": "static/media/Shoes.da24f44d.png",
+  "static/media/Snow.png": "static/media/Snow.417b3032.png",
+  "static/media/Spark.png": "static/media/Spark.091e3c7a.png"
 }
